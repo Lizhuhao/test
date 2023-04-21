@@ -1,2 +1,4 @@
-package com.lizhihao.stady;public class TypeDemo1 {
+package com.lizhihao.stady;
+
+public class TypeDemo1 {
 }
